@@ -2,6 +2,7 @@ import numpy as np
 
 
 def cylinder_area(r: float, h: float) -> float:
+
     nan = np.NAN
     pi = np.pi
 
